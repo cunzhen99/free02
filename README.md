@@ -11,8 +11,8 @@
 ***
 
 
-# &nbsp;&nbsp; <a href="https://is.gd/freeg01" target="_blank">自由上网入口1</a>
-# &nbsp;&nbsp; <a href="https://is.gd/freeg02" target="_blank">自由上网入口2</a>
+# &nbsp;&nbsp; <a href="https://bit.ly/fqtz001" target="_blank">自由上网入口1</a>
+# &nbsp;&nbsp; <a href="https://bit.ly/fqtz002" target="_blank">自由上网入口2</a>
 # &nbsp;&nbsp; <a href="https://github.com/ogate/ogate/blob/master/README.md?0219" target="_blank">自由上网入口3</a>
 ***
 
